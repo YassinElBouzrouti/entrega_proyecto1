@@ -18,6 +18,9 @@ h2{
 section{
     margin: 130px 50px;
 }
+span{
+    font-weight: 800;
+}
 body{
     display: felx ;
     flex-direction: column;
